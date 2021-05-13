@@ -33,8 +33,8 @@ class Employee{
 
 
 let duy = new Employee("duy",30,"42 Lê Lợi",6000000);
-let hung = new Employee("buu",20,"9 Trần Nguyên Đán", 4200000);
-let thanh = new Employee("nam",25,"45 Vọng Trì", 3000000);
+let hung = new Employee("hung",20,"9 Trần Nguyên Đán", 4200000);
+let thanh = new Employee("thanh",25,"45 Vọng Trì", 3000000);
 
 duy.inputWokingHours();
 duy.printInfo();
